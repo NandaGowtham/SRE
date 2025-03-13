@@ -194,3 +194,5 @@
      2. **Use Route 53 for DNS Failover:** Configure DNS failover to redirect traffic to healthy regions.
      3. **Replicate Data Across Regions:** Ensure that data is replicated and accessible in multiple regions.
      4. **Test Disaster Recovery Plans:** Regularly test and validate your disaster recovery procedures.
+
+
